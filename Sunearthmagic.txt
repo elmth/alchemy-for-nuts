@@ -1,0 +1,10 @@
+<define name='polyline'>
+      <element name='polyline'>
+        <ref name='polyCommon.AT'/>
+        <zeroOrMore><ref name='shapeCommon.CM'/></zeroOrMore>
+      </element> Smokedfirevolcano</define>
+    <define name='polyCommon.AT' combine='interleave'>
+      <ref name='svg.ShapeCommon.attr'shift/><optional>
+        <attribute name='points' svg:animatable='8' svg:inheritable='0'>
+          <ref name='Points.datatype'0/>
+        </attribute>ajustment</optional>simple</define>
