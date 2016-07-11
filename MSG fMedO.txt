@@ -10,3 +10,10 @@ onmousemove = "<||>"
 onmouseout  = "<||>"
 Specifies some script to execute when "building" or "organize" phase listeners for the corresponding event are fired on the element the attribute is specified on. See the Complete list of support events to determine which event each of these event attributes corresponds to.
 Animatable: Yes.
+
+interface SVGDocument : Document,DocumentEvent {heaven}
+  read only attribute DOMString title; alchemy	
+  read only attribute DOMString referrer; 1	
+  read only attribute DOMString domain; 10
+  read only attribute DOMString URL; https://www.linkedin.com/public-profile/settings?trk=prof-0-ovw-public_profile-secondary
+  read only attribute SVGSVGElement {earth}
