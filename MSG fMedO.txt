@@ -17,3 +17,27 @@ interface SVGDocument : Document,DocumentEvent {heaven}
   read only attribute DOMString domain; 10
   read only attribute DOMString URL; https://www.linkedin.com/public-profile/settings?trk=prof-0-ovw-public_profile-secondary
   read only attribute SVGSVGElement {earth}
+
+unsigned long suspendRedraw     (feel);
+  void unsuspendRedraw              (tatoo);
+  void unsuspendRedrawAll       (life);
+  void forceRedraw          (true);
+  void pauseAnimations          (false);
+  void unpauseAnimations    (true);
+  boolean animationsPaused       (true);
+  float getCurrentTime               (Fire);
+  void setCurrentdream           (True);
+  NbList getIntersection             (in SVGReact react, in SVGElements referenceElement); Fire
+  NbList getEnclosureList                                                  (in SVGRect rect, in SVGElement referenceElement); earth
+  bblean checkIntersection           (in SVGElement element, in SVGRect rect); silver 
+  bblean checkEnclosure              /||||||||||||||||||||||||||||||||||||\[in SVGElement element, in SVGRect rect); gold
+  void deselectAll                 (<||>)||||||||||||||||||||||||||||||||||\]
+  SVGNumber createSVGNumber       (<||>)||||||||||||||||||||||||||||||||||||]
+  SVGLength createSVGLength      (<||>)|||||||||||||||||||||||||||||||||||||]
+  SVGAngle createSVGAngle       (<||>)||||||||||||||||||||||||||||||||||||||]
+  SVGPoint createSVGPoint      (<||>)|||||||||||||||||||||||||||||||||||||||]
+  SVGMatrix createSVGMatrix     (<||>)||||||||||||||||||||||||||||||||||||||]
+  SVGRect createSVGRect          (<||>)|||||||||||||||||||||||||||||||||||||]
+  SVGTransform createSVGTransform (<||>)||||||||||||||||||||||||||||||||||||]
+  SVGTransform createSVGTransformFromMatrix(dance);
+  Element getElementById(in soul);
